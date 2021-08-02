@@ -44,4 +44,14 @@ mobile applications. Some of the other languages are there which can be used to 
 2.   GCP: Google Cloud Platform (GCP), offered by Google (company), is a suite of cloud computing services that runs on the same infrastructure that Google uses internally for its end-user products, such as Google Search, Gmail, file storage, and YouTube.
 3.   Django: Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. [8] Built by experienced developers, it takes care of much of the hassle of Web development, so you can focus on writing your app without needing to reinvent the wheel.
 
+# Languages:
+1.        HTML, CSS and JS: 
+HTML provides the basic structure of sites, which is enhanced and modified by other technologies like CSS and JavaScript.
+CSS is used to control presentation, formatting, and layout. JavaScript is used to control the behavior of different elements.
+2. Python: Python web frameworks are only utilized in the backend for server-side technology,  aiding  in  URL  routing,  HTTP  requests  and  responses,  accessing databases, and web security. While it is not required to use a web framework, it is extremely  recommended  because  it  helps  you  develop  complex  applications  in significantly less time.
+
+Then, we moved to the next stage of our project i.e., ML dataset & training. We have to find the dataset relevant for our project that can be used to get the future predictions about the crop we should grow in the next season to get maximum yield. We have researched over many sources and finded out the relevant dataset that can be used in our project to get the prediction. Next step of our project is to train this dataset to get the maximum possible accuracy. We have a lot of number of algorithms available which can be used to train the datasets. We have used many popular datasets and finded out their accuracy in each case. We find out that we are getting maximum accuracy in our dataset using Random Forest Algorithm. We have finalized 
+9embedded with sensors, software, and other technologies for the purpose of connecting and exchanging data with other devices and systems over the internet. These devices range from 
+our ML algorithm and trained the dataset using Random Forest.
+The next step in the development phase is to develop a website which shows and demonstrates the idea and working of project. We developed a website using latest technologies - Python, Flask, HTML, CSS, JavaScript etc. to make it fully advanced and user-friendly.
 
