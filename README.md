@@ -1,6 +1,6 @@
 # ML and IOT based-crop-consultant
 This is machine learning and deep learning based website which recommends the best crop to grow, fertilizers to use and the diseases caught by your crops.
-
+![rm1](https://user-images.githubusercontent.com/60344472/127899674-4f3eb8f9-f799-44cd-9175-114067f515d9.PNG)
 
 
 # Approach
