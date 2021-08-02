@@ -1,5 +1,6 @@
-# ML-based-crop-consultant
+# ML and IOT based-crop-consultant
 This is machine learning and deep learning based website which recommends the best crop to grow, fertilizers to use and the diseases caught by your crops.
+
 
 
 # Approach
@@ -13,7 +14,8 @@ Our animal detection system and Radar System will prevent animals or flying bein
 
 Our project provides all solutions to daily problems of Indian farmers. Further Overall Operation cost will be reduced and production quality and quantity will be increased and there will be reduced environmental footprint. Our country is dependent on the farmers as they provide us one of the most essential needs to survive i.e., food. We hope, through our small contribution we can put a smile on the face of millions of farmers and improve our Country's Agricultural economy.
 
-
+# Proofwork for selection of ML Classifier:
+https://drive.google.com/file/d/16qpmNrykHkHpW4x5X_jlVn40Cj01yvaU/view
 
 # SENSORS AND MICROCONTROLLER
 We  have  a  wide  variety  of  choices  for  microcontrollers  and  sensors.  For  this  basic implementation Arduino mega will be best fit, because the Arduino MEGA 2560 is designed for projects that require more I/O lines, more sketch memory and more RAM. With 54 digital I/O pins, 16 analog inputs and a larger space for your sketch it is the recommended board for 3D printers and robotics projects. We can accumulate various sensors with our controller which includes –
