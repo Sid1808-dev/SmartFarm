@@ -45,7 +45,7 @@ mobile applications. Some of the other languages are there which can be used to 
 3.   Django: Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. [8] Built by experienced developers, it takes care of much of the hassle of Web development, so you can focus on writing your app without needing to reinvent the wheel.
 
 # Languages:
-1.        HTML, CSS and JS: 
+1. HTML, CSS and JS
 HTML provides the basic structure of sites, which is enhanced and modified by other technologies like CSS and JavaScript.
 CSS is used to control presentation, formatting, and layout. JavaScript is used to control the behavior of different elements.
 2. Python: Python web frameworks are only utilized in the backend for server-side technology,  aiding  in  URL  routing,  HTTP  requests  and  responses,  accessing databases, and web security. While it is not required to use a web framework, it is extremely  recommended  because  it  helps  you  develop  complex  applications  in significantly less time.
